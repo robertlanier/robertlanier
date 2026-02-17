@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 I’m a remote-first Data Engineer focused on secure, scalable data systems, AI-augmented development, and clear documentation. I thrive in async-friendly environments where autonomy and trust are valued.
 
 🎯 Data Engineer | AI-Augmented | GitOps Enthusiast | Docs-as-Code Advocate  
-📍 Remote-First | Open to roles in West Coast US, Greater Vancouver, B.C., or Western Europe  
+📍 Remote-First | West Coast US, Greater Vancouver, B.C., or Western Europe  
 🔗 [LinkedIn Profile](https://www.linkedin.com/in/robertlanier)  
 
 ---
