@@ -27,7 +27,7 @@ I’m a remote-first Data Engineer focused on secure, scalable data systems, AI-
 ### 🔧 What I’m Working On
 - 🌿 GitOps Homelab stack (Terraform, Traefik, Podman)
 - 🧠 AI-integrated workflows (ChatGPT, GitLab Duo, Copilot)
-- 🗂️ Internal tools + dotfiles for terminal-first dev
+- 🗂️ Internal tools + dotfiles for terminal-first development
 
 ---
 
