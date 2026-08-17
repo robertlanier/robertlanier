@@ -43,5 +43,4 @@ Remote-first teams focused on:
 ---
 
 ### 📁 Featured Repos
-- 🏠 [`dotfiles`](https://github.com/robertlanier/dotfiles)
 - 🚀 [`gitops-homelab`](https://github.com/robertlanier/podman-gitops-stack)
